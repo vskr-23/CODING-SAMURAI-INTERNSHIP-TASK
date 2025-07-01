@@ -189,9 +189,3 @@ The analysis provides insights into:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 Notes
-
-- Ensure sufficient memory when processing large datasets with RoBERTa
-- The notebook includes error handling for failed sentiment analysis attempts
-- Results are cached in DataFrame format for easy manipulation and export
-
